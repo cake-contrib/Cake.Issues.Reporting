@@ -8,6 +8,10 @@
     <Authors>BBT Software AG and contributors</Authors>
     <Company>BBT Software AG and contributors</Company>
   </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\Cake.Issues.Reporting.Tests.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
   
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />

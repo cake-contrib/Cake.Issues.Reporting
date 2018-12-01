@@ -17,16 +17,16 @@ See the Project Site for an overview of the whole ecosystem of addins for workin
     </description>
     <licenseUrl>https://github.com/cake-contrib/Cake.Issues.Reporting/blob/develop/LICENSE</licenseUrl>
     <projectUrl>http://cake-contrib.github.io/Cake.Issues.Website/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics@a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <repository type="git" url="https://github.com/cake-contrib/Cake.Issues.Reporting"/>
     <copyright>Copyright © BBT Software AG and contributors</copyright>
     <tags>Cake Script Cake-Issues CodeAnalysis Linting Issues Reporting</tags>
-    <releaseNotes>https://github.com/cake-contrib/Cake.Issues.Reporting/releases/tag/0.6.0</releaseNotes>
+    <releaseNotes>https://github.com/cake-contrib/Cake.Issues.Reporting/releases/tag/0.6.1</releaseNotes>
   </metadata>
   <files>
-    <file src="Cake.Issues.Reporting.dll" target="lib\net46" />
-    <file src="Cake.Issues.Reporting.pdb" target="lib\net46" />
-    <file src="Cake.Issues.Reporting.xml" target="lib\net46" />
+    <file src="netstandard2.0\Cake.Issues.Reporting.dll" target="lib\netstandard2.0" />
+    <file src="netstandard2.0\Cake.Issues.Reporting.pdb" target="lib\netstandard2.0" />
+    <file src="netstandard2.0\Cake.Issues.Reporting.xml" target="lib\netstandard2.0" />
   </files>
 </package>

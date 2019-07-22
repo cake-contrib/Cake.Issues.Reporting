@@ -19,7 +19,7 @@ and for general information about the Cake build automation system see the [Cake
 | | Develop | Master |
 |:--:|:--:|:--:|
 |AppVeyor Windows|[![Build status](https://ci.appveyor.com/api/projects/status/29xkel1p1e9kd9ss/branch/develop?svg=true)](https://ci.appveyor.com/project/cakecontrib/cake-issues-reporting/branch/develop)|[![Build status](https://ci.appveyor.com/api/projects/status/29xkel1p1e9kd9ss/branch/master?svg=true)](https://ci.appveyor.com/project/cakecontrib/cake-issues-reporting/branch/master)|
-|Azure DevOps Windows|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_apis/build/status/cake-contrib.Cake.Issues.Reporting?branchName=develop&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_build/latest?definitionId=14?branchName=develop)|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_apis/build/status/cake-contrib.Cake.Issues.Reporting?branchName=master&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_build/latest?definitionId=14?branchName=master)|
+|Azure DevOps Windows|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_apis/build/status/cake-contrib.Cake.Issues.Reporting?branchName=develop&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_build/latest?definitionId=14&branchName=develop)|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_apis/build/status/cake-contrib.Cake.Issues.Reporting?branchName=master&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.Reporting/_build/latest?definitionId=14&branchName=master)|
 
 ## Code Coverage
 

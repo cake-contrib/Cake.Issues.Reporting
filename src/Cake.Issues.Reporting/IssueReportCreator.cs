@@ -1,8 +1,8 @@
 ﻿namespace Cake.Issues.Reporting
 {
     using System.Collections.Generic;
-    using Core.Diagnostics;
-    using Core.IO;
+    using Cake.Core.Diagnostics;
+    using Cake.Core.IO;
 
     /// <summary>
     /// Class for creating issue reports.
@@ -40,7 +40,7 @@
             reportFormat.NotNull(nameof(reportFormat));
 
             var issuesReader = new IssuesReader(this.log, issueProviders, this.settings);
-            var issues = issuesReader.ReadIssues(IssueCommentFormat.PlainText);
+            var issues = issuesReader.ReadIssues();
 
             return this.CreateReport(issues, reportFormat);
         }
